@@ -1,5 +1,5 @@
 # BioInformatika 1LAB
-Atstumo matrica skaičiavau sudėjęs atitinkamu reikšmių dažnių modulius. Kadangi sudedame modulius į sumą, iš to galime teigti, kad kuo didesnis skaitmuo tuo virusai skirtingesni ir atvirkščiai kuo skaičius mažesnis tuo virusai panašesni, dėl to virusas su savimi pačiu lygus 0(visos reikšmės sutampa)
+Atstumo matrica skaičiavau sudėjęs atitinkamu reikšmių dažnių modulius. Kadangi sudedame modulius į sumą, iš to galime teigti, kad kuo didesnis skaitmuo tuo virusai skirtingesni ir atvirkščiai kuo skaičius mažesnis tuo virusai panašesni, dėl to virusas kur lyginamas su savimi reikšmė visada 0.
 
 Tiek kordonų, tiek dikodonų medžiai gavosi panašūs.
 
